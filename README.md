@@ -1,6 +1,6 @@
 # Missense Mutation
 
-Program for modification of the proteins on atomistic level. Program MisMut can be used in order to modify the sequence of amino acids in the initial protein to the predetermined sequence.
+Program for modification of proteins on atomistic level. Program MisMut can be used in order to modify the sequence of amino acids in the initial protein to the predetermined sequence.
 
 There are two input files: 
 * input file with initial protein in pdb format;
