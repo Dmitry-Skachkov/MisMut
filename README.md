@@ -8,4 +8,4 @@ There are two input files:
 
 The result of the program is new pdb file containing new protein with predetermined sequence of amino acids.
 
-The program can be used in combination with [Pulchra](https://www.pirx.com/pulchra/index.shtml) program in order to generate all-atom protein structure from reduced protein model and then modify sequence of the protein.
+The program can be used in combination with [Pulchra](https://www.pirx.com/pulchra/index.shtml) program in order to (1) generate all-atom protein structure from reduced protein model and (2) then modify sequence of the protein.
