@@ -4,7 +4,7 @@ Program for modification of proteins on atomistic level. Program MisMut can be u
 
 There are two input files: 
 * input file with initial protein in pdb format;
-* input file containing the predetermined structure of the output protein in two possible formats, in extended format with three letter code for amino acids, or short form of one letter for 20 possible amino acids.
+* input file containing the predetermined structure of the output protein in one of two possible formats, in extended format with three letter code for amino acids, or short form of one letter for 20 possible amino acids.
 
 The result of the program is new pdb file containing new protein with predetermined sequence of amino acids.
 
